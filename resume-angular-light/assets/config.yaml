@@ -1,0 +1,11 @@
+config :
+  version         : 1.0.0
+  backgroundColor : '#fff'
+  headerColor     : '#cdccdb'
+  headerLineColor : '#000e69'
+  linkColor       : '#0041bf'
+  color           : '#222222'
+  urlLinkedIn     : 'https://www.linkedin.com/in/pierre-hanauer/'
+  urlGitHub       : 'https://github.com/biliboobrian/resume-angular'
+  urlTwitter      : 
+  langs           : [en]
